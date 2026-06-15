@@ -1,0 +1,4 @@
+com\automation\stepdefs\HomeStepDefs.class
+com\automation\tests\ClaudeAITest.class
+com\automation\hooks\Hooks.class
+com\automation\runners\TestRunner.class

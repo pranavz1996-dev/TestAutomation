@@ -1,0 +1,5 @@
+com\automation\pages\BasePage.class
+com\automation\ai\ClaudeClient.class
+com\automation\config\ConfigReader.class
+com\automation\ai\TestDataGenerator$UserData.class
+com\automation\ai\TestDataGenerator.class
